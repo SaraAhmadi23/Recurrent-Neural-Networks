@@ -1,4 +1,5 @@
-# Recurrent-Neural-Networks
+# Recurrent-Neural-Networks  
+
 __Exploring Recurrent Neural Networks (RNNs) with PyTorch__
 __Objective__
 The objective of this project is to gain hands-on experience with Recurrent Neural Networks (RNNs) using PyTorch. We will implement and train an RNN model to perform a specific task and explore its capabilities in sequence modeling.
