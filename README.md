@@ -3,6 +3,7 @@
 __Exploring Recurrent Neural Networks (RNNs) with PyTorch__  
 
 __Objective__
+
 The objective of this project is to gain hands-on experience with Recurrent Neural Networks (RNNs) using PyTorch. We will implement and train an RNN model to perform a specific task and explore its capabilities in sequence modeling.
 __Background Research__
 Recurrent Neural Networks (RNNs) are a class of neural networks well-suited for processing sequential data. They are widely used in various applications, including natural language processing, time series analysis, and speech recognition. Understanding the fundamentals of RNNs, their architecture, and different variants (such as LSTM and GRU) is essential for leveraging their full potential. Additionally, PyTorch is a popular deep learning framework that provides dynamic computation graphs and robust support for building and training neural networks.
